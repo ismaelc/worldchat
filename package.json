@@ -1,0 +1,17 @@
+{
+  "name": "worldchat",
+  "version": "0.0.1",
+  "author": {
+    "name": "Chris Ismael",
+    "email": "chris@mashape.com"
+  },
+  "description": "Chat that auto-translates for the reader based on locale",
+  "subdomain":"hello.worldchat",
+  "dependencies": {
+    "express":"3.2.3",
+    "request":"2.21.0"
+  },
+  "engines": {
+    "node": ">=0.4"
+  }
+}
