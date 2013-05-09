@@ -1,6 +1,6 @@
 ## WorldChat
 
-  A multi-lingual chat using Firebase and Mashape (MyMemory Translation Memory) API
+  A multi-lingual chat using Firebase and Mashape (MyMemory Translation Memory) API  
   Check out a video demo [here](http://www.screenr.com/DSy7)
 
 ### Todo
